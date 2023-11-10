@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+#titulos{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#apartado{
+	background-color: #DEDBD9;
+}
+#company{
+	background-color: #FFD1D1;
+}
+#empleado{
+	background-color: #FEF5C9;
+}
+#proyecto{
+	background-color: #D9F8FF;
+}
+
+form{
+	margin-top: 5px;
+}
+
+button{
+	width: 300px;
+}
+#formulario{
+	margin: 12px;
+}
